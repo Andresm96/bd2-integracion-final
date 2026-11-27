@@ -1,0 +1,10 @@
+# Copias de seguridad y archivos de datos de SQL Server (se generan con los scripts)
+*.bak
+*.mdf
+*.ldf
+
+# Archivos del sistema y de editores
+Thumbs.db
+desktop.ini
+~$*
+.vscode/

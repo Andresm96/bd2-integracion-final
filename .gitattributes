@@ -1,0 +1,8 @@
+# Los scripts SQL se guardan tal cual (UTF-8 con BOM y saltos de línea de Windows)
+*.sql -text
+*.bat text eol=crlf
+*.md text eol=lf
+*.png binary
+*.pdf binary
+*.docx binary
+*.rar binary
